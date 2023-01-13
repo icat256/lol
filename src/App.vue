@@ -1,5 +1,5 @@
 <template>
-  <h1>QWERTY QWERTY QWERTY ******************** !!!!!</h1>
+  <h1>QWERTY QWERTY QWERTY ******************** !!!!! 767676767</h1>
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
